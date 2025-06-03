@@ -1,11 +1,11 @@
 {
-	"id": "hello-world",
-	"name": "Hello World",
+	"id": "too-long-did-not-read",
+	"name": "TooLongDidNotRead",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "A plugin integrating Google's Gemini LLM with Obsidian.",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"authorUrl": "https://github.com/dogpatch626",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
