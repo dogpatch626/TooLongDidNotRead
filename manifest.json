@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin integrating Google's Gemini LLM with Obsidian.",
-	"author": "Obsidian",
+	"author": "Daniel Pepin",
 	"authorUrl": "https://github.com/dogpatch626",
 	"isDesktopOnly": true
 }
