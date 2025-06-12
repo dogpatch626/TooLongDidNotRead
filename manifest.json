@@ -1,7 +1,7 @@
 {
 	"id": "too-long-did-not-read",
 	"name": "TooLongDidNotRead",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin integrating Google's Gemini LLM with Obsidian.",
 	"author": "Daniel Pepin",
